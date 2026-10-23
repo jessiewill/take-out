@@ -6,3 +6,16 @@ sky:
     database: sky_take_out
     username: root
     password: Jeswill@7721
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5t6kEa43WgJheSiooNNc
+    access-key-secret: Y6IProsnic3MOjPkjCOKLtcDOi1tZF
+    bucket-name: takeout-1021
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 10
+  wechat:
+    appid: wx9c36bca5fcbdc577
+    secret: 2c7fa511de49328115cc52d13d4ab459
